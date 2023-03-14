@@ -1,6 +1,6 @@
 # flash_chat
 
-A new Flutter project.
+A new Flutter project. This is a simple chat space that has been integrated with firebase to enable user authentication.
 
 ## Getting Started
 
